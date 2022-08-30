@@ -16,7 +16,7 @@
 
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Dromos-Routinge"><code>Dromos</code></a>
+<a href="https://github.com/AnushaNathRoy/Dromos-Routinge"><code>Dromos</code> 🗺️</a>
 <br>
 <br>
 A user-friendly routing application that determines the best route by analysing real-time traffic conditions and city data based on Dijkstra’s Algorithm.
@@ -29,7 +29,7 @@ Concepts: <code>Data Structures and Algorithms</code> | <code>Data Analysis</cod
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Youtube-Study-Buddy"><code>Youtube-Study-Buddy</code></a>
+<a href="https://github.com/AnushaNathRoy/Youtube-Study-Buddy"><code>Youtube-Study-Buddy</code> ⏯️</a>
 <br>
 <br>
 The app assists in ﬁnding the most relevant clickable time-stamps in video transcript for a given search query. This tool is also great for taking notes especially for annotations and research while watching YouTube videos.
@@ -42,7 +42,7 @@ Concepts: <code>Web App Development</code> | <code>API</code>
 <hr>
 
 <p>
-<a href="https://github.com/varshitakolipaka/MoodBingo"><code>MoodBingo!</code></a>
+<a href="https://github.com/varshitakolipaka/MoodBingo"><code>MoodBingo!</code> 🎮</a>
 <br>
 <br>
 A heuristic based online multiplayer game. It puts a twist on the classic games of Bingo and Truth or Dare including features such as real-time messaging, breakout rooms and customised prompts.
@@ -55,7 +55,7 @@ Concepts: <code>Game Development</code> | <code>Client-Server Application</code>
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/Depression-and-Anxiety-Detection-on-Social-Media"><code>Early Depression Detection Model</code></a>
+<a href="https://github.com/AnushaNathRoy/Depression-and-Anxiety-Detection-on-Social-Media"><code>Early Depression Detection Model</code> 💬</a>
 <br>
 <br>
 A machine learning model to predict symptoms of anxiety and depression through social media texts using concepts of NLP and sentiment analysis.
@@ -68,7 +68,7 @@ Concepts: <code>Data Science</code> | <code>ML</code> | <code>Sentiment Analysis
 <hr>
 
 <p>
-<a href="https://github.com/AnushaNathRoy/-SASH-"><code>SASH</code></a>
+<a href="https://github.com/AnushaNathRoy/-SASH-"><code>SASH</code>  🐚💻</a>
 <br>
 <i> ~$> Welcome to your new and optimised shell sash! — </i>
 <br>
