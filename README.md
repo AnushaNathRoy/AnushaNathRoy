@@ -82,4 +82,54 @@ Concepts: <code>Operating Systems</code> | <code>System Calls</code>
 
 <hr>
 
+<p>
+<a href="https://github.com/AnushaNathRoy/KlashOfKlans"><code>KlashOfKlans</code> 👑 </a>
+<br>
+<br>
+A 2D terminal based game based on Clash of Clans written in Python implementing OOPS concepts. The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.
+<br>
+Tech Stack:<code>Python</code> 
+<br>
+Concepts: <code>OOPS</code> | <code>Game Dev</code>
+</p>
 
+<hr>
+
+<p>
+<a href="https://github.com/AnushaNathRoy/Treasures-Of-Neverland"><code>Treasures Of Neverland</code> 🏴‍☠️ </a>
+<br>
+<br>
+A 3D adventure game using Three.js and WebGL. Navigate the seas of Neverland escaping Captain Hook's goons and collecting the lost treasures on the sea! Happy Sailing :)
+<br>
+Tech Stack:<code>WebGL</code> | <code>Three.js</code>
+<br>
+Concepts: <code>Game Dev</code> | <code>Computer Graphics</code> |<code>3D Graphics</code>
+</p>
+
+<hr>
+
+<p>
+<a href="https://github.com/AnushaNathRoy/Mine-Mania"><code>Mine-Mania</code> ⛏️️ </a>
+<br>
+<br>
+A 2D top-down adventure game written in OpenGL set in the cold dark Mines of Moria. Collect your riches but beware of the enemies lurking in the dark miners!
+<br>
+Tech Stack:<code>OpenGL</code> | <code>C</code>
+<br>
+Concepts: <code>Game Dev</code> | <code>Computer Graphics</code> |<code>2D Graphics</code>
+</p>
+
+<hr>
+
+<p>
+<a href="https://github.com/AnushaNathRoy/DBD"><code>DBD</code> 🎮️️ </a>
+<br>
+<br>
+A database management CLI system for the well-renowned game Dead By Daylight.
+<br>
+Tech Stack:<code>Python</code> | <code>SQL</code>| <code>sqlite</code>
+<br>
+Concepts: <code>Database Management System</code>
+</p>
+
+<hr>
