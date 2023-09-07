@@ -2,9 +2,6 @@
  
 ![Header](header.gif "Header")
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=AnushaNathRoy&show_icons=true&theme=dracula&hide=stars">
-</a>
 
 <hr>
 <h2>Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Anusha !</h2>
